@@ -13,7 +13,7 @@ Use CSS to style the quiz, including the layout and visual elements such as colo
 * Use CSS to style the timer, including the font size, color, and position on the page.
 
 # JavaScript #
-Use JavaScript to add interactivity to the quiz, including starting the timer, presenting the questions, and handling user input.[1][2]
+Use JavaScript to add interactivity to the quiz[^1], including starting the timer, presenting the questions, and handling user input.
 * Add an event listener to the start button that will start the timer and present the first question when clicked.
 * Create a function that presents the next question after the user has answered the previous one.
 * Create a function that subtracts time from the timer when the user answers a question incorrectly.
@@ -21,5 +21,4 @@ Use JavaScript to add interactivity to the quiz, including starting the timer, p
 * Create a function that allows the user to save their initials and score after the game is over.
 
 
-[1]You should use JavaScript to hide and show questions and answers, handle user input, update the timer and validate if the answer is correct.
-[2]Please note that this is just a general overview and there are many different ways you could implement this project. I recommend looking into JavaScript frameworks such as React or Angular, and libraries like Jquery for DOM manipulation.
+[^1]You should use JavaScript to hide and show questions and answers, handle user input, update the timer and validate if the answer is correct.
