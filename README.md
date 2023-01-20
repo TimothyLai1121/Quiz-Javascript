@@ -1,4 +1,4 @@
-# Quiz Alert # ![filecounts](https://img.shields.io/github/directory-file-count/TimothyLai1121/Quiz-Javascript) 
+# Quiz Alert ![filecounts](https://img.shields.io/github/directory-file-count/TimothyLai1121/Quiz-Javascript) 
 
 # HTML # 
 Use HTML to create the structure of the quiz, including the start button, questions, and timer display.
