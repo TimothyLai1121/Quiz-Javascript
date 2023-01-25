@@ -1,8 +1,12 @@
 ![banner](./assets/readme-gifs/AnotherPortfolio.png)
 
-# Quiz Alert ![issues](https://img.shields.io/github/issues/TimothyLai1121/Quiz-Javascript)
+# Quiz Alert :memo: 
+![issues](https://img.shields.io/github/issues/TimothyLai1121/Quiz-Javascript)
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
 
-# Snippet
+# Snippet :clapper:
 ![gifs](./assets/readme-gifs/WittDtjr.gif)
 
 
@@ -30,12 +34,13 @@ My favorite part of web development. Colors
 # JavaScript #
 ![jsgifs](./assets/readme-gifs/js-snippet.png)
 
+What I understand more on this project are these two terms
 * document.getElementById
 * document.getElementByClass
 * I did look up into API a little bit but still having difficult with understand javascript. Wait for update
 
 
-# References #
+# References # :bookmark_tabs:
 
 Here is all the reference that I used in this project
 
@@ -48,4 +53,4 @@ Here is all the reference that I used in this project
 | YouTube | [https://www.youtube.com/] |
 | StackOverFlow | [https://stackoverflow.com/] |
 
-# Footnotes #
+# Footnotes # :foot:
