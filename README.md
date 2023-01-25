@@ -1,5 +1,8 @@
 # Quiz Alert ![filecounts](https://img.shields.io/github/directory-file-count/TimothyLai1121/Quiz-Javascript) 
 
+# Preview
+![gifs](./assets/readme-gifs/WittDtjr.gif)
+
 # HTML # 
 Use HTML to create the structure of the quiz, including the start button, questions, and timer display.
 * Create a button element that will be used as the start button, you could use a div, span or button HTML tag.
