@@ -25,7 +25,8 @@ My favorite part of web development. Colors
 * Picked out a color pallete and turned it into variable for easier mark up.
 
 ![csssnippet](./assets/readme-gifs/css-snippet.png)
-![csspallete](./assets/readme-gifs/Mountain-Haze-Pallete.png)
+<img src="./assets/readme-gifs/Mountain-Haze-Pallete.png" width="668">
+![csspallete](./assets/readme-gifs/Mountain-Haze-Pallete.png =688x)
 
 # JavaScript #
 ![jsgifs](./assets/readme-gifs/js-snippet.png)
