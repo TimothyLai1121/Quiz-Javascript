@@ -19,3 +19,15 @@ saveHighScore = e => {
     console.log("clicked to sve button!");
     e.preventDefault();
 };
+
+
+/* window.location */
+/* javascript does not link to end page */
+
+console.log(window.location.href); 
+console.log(window.location.hostname); 
+console.log(window.location.pathname); /* assets/scripts/end.html */
+console.log(window.protocol);
+console.log(window.location.assign());
+
+/* trying to link based on console */
