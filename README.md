@@ -25,6 +25,7 @@ My favorite part of web development. Colors
 * Picked out a color pallete and turned it into variable for easier mark up.
 
 ![csssnippet](./assets/readme-gifs/css-snippet.png)
+![csspallete](./assets/readme-gifs/Mountain-Haze-Pallete.png)
 
 # JavaScript #
 ![jsgifs](./assets/readme-gifs/js-snippet.png)
@@ -52,3 +53,4 @@ Here is all the reference that I used in this project
 | YouTube | [https://www.youtube.com/] |
 | StackOverFlow | [https://stackoverflow.com/] |
 
+# Footnotes #
