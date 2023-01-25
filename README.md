@@ -19,10 +19,12 @@ On this project, I will include 3 HTML files.
 [^3]: end.html will have four buttons for user to either submit score, play again, main page, and visiting creator portfolio.
 
 # CSS #
-Use CSS to style the quiz, including the layout and visual elements such as colors and fonts.
-* Style the start button to make it stand out and look like a button.
-* Use CSS to style the layout of the questions and answers, such as positioning and spacing.
-* Use CSS to style the timer, including the font size, color, and position on the page.
+My favorite part of web development. Colors
+
+* I had included a font from Google Fonts
+* Picked out a color pallete and turned it into variable for easier mark up.
+
+![csssnippet](./assets/readme-gifs/css-snippet.png)
 
 # JavaScript #
 ![jsgifs](./assets/readme-gifs/js-snippet.png)
