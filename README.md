@@ -2,8 +2,11 @@
 
 # Quiz Alert ![issues](https://img.shields.io/github/issues/TimothyLai1121/Quiz-Javascript)
 
-# Preview
+# Preview-Gif
 ![gifs](./assets/readme-gifs/WittDtjr.gif)
+
+
+
 
 # HTML # 
 On this project, I will include 3 HTML files.
@@ -22,6 +25,8 @@ Use CSS to style the quiz, including the layout and visual elements such as colo
 * Use CSS to style the timer, including the font size, color, and position on the page.
 
 # JavaScript #
+![jsgifs](./assets/readme-gifs/js-snippet.png)
+
 Use JavaScript to add interactivity to the quiz [^1], including starting the timer, presenting the questions, and handling user input.
 * Add an event listener to the start button that will start the timer and present the first question when clicked.
 * Create a function that presents the next question after the user has answered the previous one.
@@ -34,3 +39,4 @@ Use JavaScript to add interactivity to the quiz [^1], including starting the tim
 
 # References #
 * https://shields.io/
+* https://banner.godori.dev/
