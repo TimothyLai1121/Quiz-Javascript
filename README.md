@@ -47,4 +47,6 @@ Here is all the reference that I used in this project
 | Banner Maker | [https://banner.godori.dev/] |
 | Javascript & Jquery | [https://javascriptbook.com/] |
 | Carbon | [https://carbon.now.sh/] |
+| YouTube | [https://www.youtube.com/] |
+| StackOverFlow | [https://stackoverflow.com/] |
 
