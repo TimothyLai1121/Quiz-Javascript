@@ -118,7 +118,7 @@ startGame = () => {
 /* Arrow Syntax & Pararemters */
 getNewQuestion = () => {
     if(avaialbleQuestions === 0 || questionCounter >= MAX_QUESTIONS){
-        return window.location.assign('/end.html');
+        return window.location.assign("/end.html");
     }
     /* adding this after choices.forEach to guide user to highscore page */
 
