@@ -1,13 +1,18 @@
 # Quiz Alert ![issues](https://img.shields.io/github/issues/TimothyLai1121/Quiz-Javascript)
 
+
 # Preview
 ![gifs](./assets/readme-gifs/WittDtjr.gif)
 
 # HTML # 
-Use HTML to create the structure of the quiz, including the start button, questions, and timer display.
-* Create a button element that will be used as the start button, you could use a div, span or button HTML tag.
-* Create a div element that will be used to display the questions and answers, you can use a form to hold questions and radio buttons/checkboxes for answers.
-* Create a span element that will be used to display the timer.
+On this project, I will include 3 HTML files.
+* index.html[^1] file
+* game.html[^2] file
+* end.html[^3] file
+
+[^1] index.html will present a play button and direct to game.html
+[^2] game.html will be where player will have 90 seconds to complete the quiz before getting alert for time's up!
+[^3] end.html will have four buttons for user to either submit score, play again, main page, and visiting creator portfolio
 
 # CSS #
 Use CSS to style the quiz, including the layout and visual elements such as colors and fonts.
