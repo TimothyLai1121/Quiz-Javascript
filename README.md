@@ -1,4 +1,4 @@
-# Quiz Alert ![filecounts](https://img.shields.io/github/directory-file-count/TimothyLai1121/Quiz-Javascript) 
+# Quiz Alert ![issues](https://img.shields.io/github/issues/TimothyLai1121/Quiz-Javascript)
 
 # Preview
 ![gifs](./assets/readme-gifs/WittDtjr.gif)
