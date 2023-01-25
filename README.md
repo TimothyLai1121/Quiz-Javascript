@@ -25,21 +25,15 @@ My favorite part of web development. Colors
 * Picked out a color pallete and turned it into variable for easier mark up.
 
 ![csssnippet](./assets/readme-gifs/css-snippet.png)
-<img src="./assets/readme-gifs/Mountain-Haze-Pallete.png" width="668">
-![csspallete](./assets/readme-gifs/Mountain-Haze-Pallete.png =688x)
+![csspallete](./assets/readme-gifs/Mountain-Haze-Pallete.png)
 
 # JavaScript #
 ![jsgifs](./assets/readme-gifs/js-snippet.png)
 
-Use JavaScript to add interactivity to the quiz [^1], including starting the timer, presenting the questions, and handling user input.
-* Add an event listener to the start button that will start the timer and present the first question when clicked.
-* Create a function that presents the next question after the user has answered the previous one.
-* Create a function that subtracts time from the timer when the user answers a question incorrectly.
-* Create a function that ends the game when all questions have been answered or the timer reaches 0.
-* Create a function that allows the user to save their initials and score after the game is over.
+* document.getElementById
+* document.getElementByClass
+* I did look up into API a little bit but still having difficult with understand javascript. Wait for update
 
-
-[^1]You should use JavaScript to hide and show questions and answers, handle user input, update the timer and validate if the answer is correct.
 
 # References #
 
