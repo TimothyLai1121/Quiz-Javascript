@@ -40,7 +40,7 @@ What I understand more on this project are these two terms
 * I did look up into API a little bit but still having difficult with understand javascript. Wait for update
 
 
-# References # :bookmark_tabs:
+# References  :bookmark_tabs:
 
 Here is all the reference that I used in this project
 
@@ -53,4 +53,4 @@ Here is all the reference that I used in this project
 | YouTube | [https://www.youtube.com/] |
 | StackOverFlow | [https://stackoverflow.com/] |
 
-# Footnotes # :foot:
+# Footnotes  :foot:
