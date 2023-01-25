@@ -2,7 +2,7 @@
 
 # Quiz Alert ![issues](https://img.shields.io/github/issues/TimothyLai1121/Quiz-Javascript)
 
-# Preview-Gif
+# Snippet
 ![gifs](./assets/readme-gifs/WittDtjr.gif)
 
 
@@ -10,13 +10,13 @@
 
 # HTML # 
 On this project, I will include 3 HTML files.
-* index.html[^1] file.
-* game.html[^2] file.
-* end.html[^3] file.
+* index.html[^1]
+* game.html[^2]
+* end.html[^3]
 
-[^1] index.html will present a play button and direct to game.html.
-[^2] game.html will be where player will have 90 seconds to complete the quiz before getting alert for time's up!
-[^3] end.html will have four buttons for user to either submit score, play again, main page, and visiting creator portfolio.
+[^1]: index.html will present a play button and direct to game.html.
+[^2]: game.html will be where player will have 90 seconds to complete the quiz before getting alert for time's up!
+[^3]: end.html will have four buttons for user to either submit score, play again, main page, and visiting creator portfolio.
 
 # CSS #
 Use CSS to style the quiz, including the layout and visual elements such as colors and fonts.
